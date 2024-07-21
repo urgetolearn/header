@@ -1,0 +1,1 @@
+You Can package an extension using "vsce package"
